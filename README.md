@@ -4,7 +4,7 @@
 
 ### 1. Inference
 
-Left - Ground Truth, Right - Precdition             |  
+Left - Ground Truth, Right - Prediction             |  
 :-------------------------:|
 <img src="inference/00000_3.jpg" width="350" alt="Alt text" title="">  |  
 
